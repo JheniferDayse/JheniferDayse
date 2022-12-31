@@ -1,7 +1,6 @@
- <img src="https://github.com/JheniferDayse/JheniferDayse/issues/1#issue-1514966184" target="_blank">
-
 # 💫 Sobre mim:
-Eu estudo Gestão em Tecnologia da Informação :woman_student:<br> Estou aprendendo Java language :computer: <br> Gosto de praticar atividade física :weight_lifting_woman:
+Eu estudo Gestão em Tecnologia da Informação :woman_student:<br> Estou aprendendo Java language :computer: <br> Gosto de praticar atividade física :weight_lifting_woman:<br>
+:white_check_mark: Sou Proativa, curiosa, comunicativa e tenho muita facilidade em aprender atividades novas.
 
 
 ## 🌐 Social:
@@ -29,12 +28,6 @@ Eu estudo Gestão em Tecnologia da Informação :woman_student:<br> Estou aprend
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JheniferDayse&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-## Oiii eu sou a Jhenifer Dayse !!!
-Sou Proativa, curiosa, comunicativa e tenho muita facilidade em aprender atividades novas.
 
   
   ##

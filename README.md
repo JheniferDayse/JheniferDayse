@@ -20,5 +20,4 @@ Sou Proativa, curiosa, comunicativa e tenho muita facilidade em aprender ativida
  
 </div>
 
-  
-![snake gif](https://github.com/JheniferDayse/Jhenifer-Dayse/blob/output/github-contribution-grid-snake.svg) 
+  ![snake gif](https://github.com/JheniferDayse/JheniferDayse/blob/output/github-contribution-grid-snake.svg)

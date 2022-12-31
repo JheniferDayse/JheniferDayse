@@ -3,7 +3,7 @@ Estou no 4º semestre de Gestão em Tecnologia da Informação :woman_student:<b
 :white_check_mark: Sou Proativa, curiosa, comunicativa e tenho muita facilidade em aprender atividades novas.
 
 
-## 🌐 Social:
+# 🌐 Social:
 <div> 
    <a href = "mailto:jheniferdayseq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jhenifer-dayse-262647116/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

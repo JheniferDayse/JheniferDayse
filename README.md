@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Eu estou no 4º semestre de Gestão em Tecnologia da Informação :woman_student:<br> Estou aprendendo Java language :computer: <br> Gosto de praticar atividade física :weight_lifting_woman:<br>
+Eu estou no 4º semestre de Gestão em Tecnologia da Informação :woman_student:<br> Estou aprendendo linguagem Java :computer: <br> Gosto de praticar atividade física :weight_lifting_woman:<br>
 :white_check_mark: Sou Proativa, curiosa, comunicativa e tenho muita facilidade em aprender atividades novas.
 
 

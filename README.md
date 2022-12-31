@@ -1,4 +1,5 @@
 ## Oiii eu sou a Jhenifer Dayse !!!
+Sou Proativa, curiosa, comunicativa e tenho muita facilidade em aprender atividades novas.
 <div align="center">
   <a href="https://github.com/JheniferDayse">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JheniferDayse&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

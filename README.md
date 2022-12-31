@@ -1,4 +1,4 @@
- <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+ <img src="https://github.com/JheniferDayse/JheniferDayse/issues/1#issue-1514966184" target="_blank">
 
 # 💫 Sobre mim:
 Eu estudo Gestão em Tecnologia da Informação :woman_student:<br> Estou aprendendo Java language :computer: <br> Gosto de praticar atividade física :weight_lifting_woman:

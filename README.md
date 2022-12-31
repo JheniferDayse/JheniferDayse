@@ -19,5 +19,3 @@
  
 </div>
   
-
-![snake gif](https://github.com/JheniferDayse/Jhenifer-Dayse/blob/output/github-contribution-grid-snake.svg)

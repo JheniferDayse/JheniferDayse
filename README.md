@@ -28,7 +28,6 @@ Estou no 4º semestre de Gestão em Tecnologia da Informação :woman_student:<b
   <img align="center" alt="JheniferDayse-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=JheniferDayse&icon=0&color=0)](https://visitcount.itsvg.in)
 

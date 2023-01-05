@@ -35,5 +35,4 @@ Estou no 4º semestre de Gestão em Tecnologia da Informação :woman_student:<b
   ##
  
 
-
   ![snake gif](https://github.com/JheniferDayse/JheniferDayse/blob/output/github-contribution-grid-snake.svg)

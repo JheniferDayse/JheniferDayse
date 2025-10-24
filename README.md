@@ -32,5 +32,11 @@ Estou no 4º semestre de Gestão em Tecnologia da Informação :woman_student:<b
   
   ##
  
-
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https:raw.githubusercontent.com/JheniferDayse/JheniferDayse/output/github-contribution-grip-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https:raw.githubusercontent.com/JheniferDayse/JheniferDayse/output/github-contribution-grip-snake.svg">
+    <img alt="github contribution grid snake animation" src="https:raw.githubusercontent.com/JheniferDayse/JheniferDayse/output/github-contribution-grip-snake.svg">
+</picture>
+<br> </br>
+   
   ![snake gif](https://github.com/JheniferDayse/JheniferDayse/blob/output/github-contribution-grid-snake.svg)

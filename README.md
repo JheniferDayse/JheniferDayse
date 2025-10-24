@@ -30,13 +30,25 @@ Estou no 4º semestre de Gestão em Tecnologia da Informação :woman_student:<b
 [![](https://visitcount.itsvg.in/api?id=JheniferDayse&icon=0&color=0)](https://visitcount.itsvg.in)
 
   
-  ##
- 
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https:raw.githubusercontent.com/JheniferDayse/JheniferDayse/output/github-contribution-grip-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https:raw.githubusercontent.com/JheniferDayse/JheniferDayse/output/github-contribution-grip-snake.svg">
-    <img alt="github contribution grid snake animation" src="https:raw.githubusercontent.com/JheniferDayse/JheniferDayse/output/github-contribution-grip-snake.svg">
-</picture>
+
 <br> </br>
-   
-  ![snake gif](https://github.com/JheniferDayse/JheniferDayse/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+ ![snake animation](https://github.com/JheniferDayse/JheniferDayse/blob/output/github-contribution-grid-snake.svg)
+
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=JheniferDayse&repo=JheniferDayse&theme=react)](https://github.com/JheniferDayse/JheniferDayse)
+
